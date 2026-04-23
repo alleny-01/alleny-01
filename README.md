@@ -27,8 +27,8 @@ My interests include developing scalable React applications, improving UI perfor
 ---
 
 ### 📌 Featured Projects
-- **QuickServe E-Commerce App**  
-  A modern e-commerce frontend built with React, TypeScript, and Tailwind CSS.
+- **Lumio Learning-Management-System with Ai features**  
+  A modern LMS platform with react, TypeScript, and Tailwind CSS.
 
 - **Portfolio Website**  
   A responsive personal portfolio showcasing my projects and skills.
