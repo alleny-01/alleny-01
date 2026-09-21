@@ -1,4 +1,4 @@
-## Hi 👋 I'm Allen Enuma
+## Hi there! 👋 I'm Len
 
 I'm a Frontend Developer with hands-on experience building responsive, user-focused web applications. I work with modern frontend workflows such as component-based architecture, state management, API consumption, and version control with Git and GitHub.
 
