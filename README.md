@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Len
+### Hi there! 👋 I'm Len
 
 I'm a Frontend Developer with hands-on experience building responsive, user-focused web applications. I work with modern frontend workflows such as component-based architecture, state management, API consumption, and version control with Git and GitHub.
 
@@ -10,11 +10,8 @@ I use technologies such as Typescript, React, JavaScript, Next.js, Tailwind CSS,
   <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,tailwind,git,github,next,supabase,postgresql,npm,vercel" alt="Tech stack: TypeScript, JavaScript, React, HTML, CSS Tailwind CSS, Git, GitHub, Next, Supabase, PostgresSQL , npm, Vercel" />
 </p>
 
-## Currently
-- Strengthening TypeScript in scalable React codebases
-- Building real-world React applications
-- Learning best practices for scalable frontend projects
-- Building up my portfolio with real world projects
+Im currently strengthening TypeScript in scalable React codebases, building real-world React applications, learning best practices for scalable frontend projects, building up my portfolio with real world projects.
+
 
 
 
